@@ -4,4 +4,6 @@
 💞️ Currently working on Python projects to brush up on my Python skills and looking to build my personal site.
 
 You can reach out to me and view my work on the following sites:
-![yt](https://user-images.githubusercontent.com/87244418/221358888-884e6f1f-2ae6-4df5-8636-429219e08d73.png)
+🖥️https://www.youtube.com/channel/UCQuebkcV8MH_HG2vvdggekA
+🖥️https://www.linkedin.com/in/shavin-croos/
+🖥️https://github.com/TheBandit105
