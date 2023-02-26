@@ -8,7 +8,7 @@
 * 🎓 Graduated with a First Class Degree in BSc Computer Science at the University of Reading<br>
 * 📝 Completed my final year project using Python at the University of Reading<br> 
 * 💞️ Currently working on Python projects to brush up on my Python skills and looking to build my personal site.<br>
-* 💬 Ask me mainly about **Python, Java and C++**
+* 💬 Ask me mainly about **Python**, but have done stuff with **Java and C++** in the past
 * 📧 Reach me on email at **shavincroos@yahoo.co.uk**
 * 💻 All of my projects and works are available at [https://github.com/TheBandit105](https://github.com/TheBandit105)
 
