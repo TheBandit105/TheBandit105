@@ -12,7 +12,7 @@
 * 📧 Reach me on email at **shavincroos@yahoo.co.uk**
 * 💻 All of my projects and works are available at [https://github.com/TheBandit105](https://github.com/TheBandit105)
 
-Other ways you can reach out to me are as follows:<br>
+Other ways you can connect with me are as follows:<br>
 
 * 🖥️https://www.youtube.com/channel/UCQuebkcV8MH_HG2vvdggekA<br>
 * 🖥️https://www.linkedin.com/in/shavin-croos/<br>
