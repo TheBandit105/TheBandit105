@@ -4,6 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TheBandit105&label=Profile%20views&color=0e75b6&style=flat" alt="TheBandit105" /> </p>
 
+<p align="left"> <a href="https://twitter.com/ShavinCroos" target="blank"><img src="https://img.shields.io/twitter/follow/ShavinCroos_?logo=twitter&style=for-the-badge" alt="ShavinCroos" /></a>
+
 <h3 align="left">About me:</h3>
 
 * 👀 I’m interested and currently looking for jobs within the ICT and Software Development Sector<br>
@@ -29,3 +31,11 @@
 <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellij" width="40" height="40"/> </a>
 <a href="https://github.com/serengil/deepface" target="_blank" rel="noreferrer"> <img src="https://github.com/serengil/deepface/blob/master/icon/deepface-icon-labeled.png" alt="intellij" width="40" height="40"/> </a>
 </p>
+
+<h3 align="left">Fun Stats:</h3>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=TheBandit105&show_icons=true&locale=en&layout=compact&theme=dark" alt="TheBandit105" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TheBandit105&show_icons=true&locale=en&theme=dark" alt="TheBandit105" /></p>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TheBandit105&theme=dark)](https://git.io/streak-stats)
