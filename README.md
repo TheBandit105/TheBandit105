@@ -6,8 +6,6 @@
 
 <p align="left"> <a href="https://twitter.com/ShavinCroos" target="blank"><img src="https://img.shields.io/twitter/follow/ShavinCroos_?logo=twitter&style=for-the-badge" alt="ShavinCroos" /></a>
   
-<p align="left"> <a href="https://www.youtube.com/channel/UCQuebkcV8MH_HG2vvdggekA" target="blank"><img src="https://img.shields.io/youtube/channel/subscribers/UCQuebkcV8MH_HG2vvdggekA?style=social" alt="TheBandit105" /></a>
-  
 <h3 align="left">About me:</h3>
 
 * 👀 I’m interested and currently looking for jobs within the ICT and Software Development Sector<br>
