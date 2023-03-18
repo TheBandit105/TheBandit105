@@ -1,6 +1,6 @@
 ![MasterHead](https://cdn.universitycompare.com/content/images/Guide--h37Y8SmsrWeoDpU.jpg)
 
-<h1 align="center">👋 Hi, I’m @Shavin Croos </h1>
+<h1 align="center">👋 Hi, I’m @ Thomas Shavin Croos </h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TheBandit105&label=Profile%20views&color=0e75b6&style=flat" alt="TheBandit105" /> </p>
 
