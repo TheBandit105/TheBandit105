@@ -8,10 +8,10 @@
   
 <h3 align="left">About me:</h3>
 
-* 👀 I’m interested and currently looking for jobs within the ICT and Software Development Sector<br>
+* 👀 I’m currently working within the IT industry and looking into Software Development sector.<br>
 * 🎓 Graduated with a First Class Degree in BSc Computer Science at the University of Reading<br>
 * 📝 Completed my final year project using Python at the University of Reading<br> 
-* 💞️ Currently working on Python projects to brush up on my Python skills and looking to build my personal site.<br>
+* 💞️ Currently working on Python projects to brush up on my Python skills and currently building my personal site (coming soon).<br>
 * 💬 Ask me mainly about **Python**, but have done stuff with **Java and C++** in the past
 * 📧 Reach me on email at **shavincroos@yahoo.co.uk**
 * 💻 All of my projects and works are available at [https://github.com/TheBandit105](https://github.com/TheBandit105)
