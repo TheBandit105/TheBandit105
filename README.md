@@ -8,7 +8,7 @@
   
 <h3 align="left">About me:</h3>
 
-* 👀 I’m currently working within the IT industry and looking into Software Development sector.<br>
+* 👀 I’m currently working within the IT industry and looking into Cyber Security sector.<br>
 * 🎓 Graduated with a First Class Degree in BSc Computer Science at the University of Reading<br>
 * 📝 Completed my final year project using Python at the University of Reading<br> 
 * 💞️ Currently working on Python projects to brush up on my Python skills and currently building my personal site (coming soon).<br>
