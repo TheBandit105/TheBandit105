@@ -19,7 +19,7 @@
 
 <h3 align="left">Other ways to connect with me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/channel/UCQuebkcV8MH_HG2vvdggekA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ShavinCroos" height="30" width="40" /></a> 
+<a href="https://www.youtube.com/watch?v=h5rtcyOBW3k&list=PLyPd5sEVfsAKzR_d6Q1loZ4gwSLdiT-aa&index=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ShavinCroos" height="30" width="40" /></a> 
 <a href="https://www.linkedin.com/in/shavin-croos/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ShavinCroos" height="30" width="40" /></a>  
 <a href="https://twitter.com/ShavinCroos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ShavinCroos" height="30" width="40" /></a>
 </p>
