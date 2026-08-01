@@ -8,7 +8,7 @@
   
 <h3 align="left">About me:</h3>
 
-* 👀 I’m currently working as a IT Service Desk Analyst at the University of Surrey and looking into Cyber Security sector.<br>
+* 👀 I’m currently working as a Field Support Analyst at the University of Surrey and looking into Cyber Security sector.<br>
 * 🎓 Graduated with a First Class Degree in BSc Computer Science at the University of Reading<br>
 * 📚 Currently pursuing a Master's in Cyber Security at the University of Surrey<br>
 * 📝 Completed my final year project using Python at the University of Reading<br> 
